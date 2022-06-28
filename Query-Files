@@ -1,0 +1,4 @@
+# Syntax 
+SELECT * FROM file_format.`/path/to/file`
+
+e.g :  
