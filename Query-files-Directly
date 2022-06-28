@@ -1,0 +1,4 @@
+Querying Files directly 
+  * SELECT * FROM file_format.`/path/to/file`
+  file_format
+  
